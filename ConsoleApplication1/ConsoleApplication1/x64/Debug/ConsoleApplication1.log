@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+A:\Профиль\Rab Table\123\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12): error C4789: буфер "y" размером 20 байт будет переполнен; 4 будет записано начиная с позиции 20
